@@ -1,3 +1,5 @@
+"Trong file app.config, chỉnh sửa như đoạn code phía dưới"
+
 ```
 <?xml version="1.0" encoding="utf-8" ?>
 <configuration>
